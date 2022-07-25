@@ -16,7 +16,7 @@ public class IfStatement {
         System.out.println("Input Recived");
 
         if(c > 40) {
-            System.out.println("Greater Value")
+            System.out.println("Greater")
 
         }
 
